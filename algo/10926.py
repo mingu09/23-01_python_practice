@@ -1,2 +1,2 @@
 ID = input()
-print(ID + !)
+print(ID + "??!")
